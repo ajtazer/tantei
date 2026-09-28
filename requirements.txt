@@ -1,0 +1,5 @@
+opencv-contrib-python>=4.8
+numpy>=1.24
+# optional, only for `tantei upscale`
+torch>=2.1
+spandrel>=0.3

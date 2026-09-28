@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+work/
+# never commit case material
+*.mp4
+*.mov
+*.m4a
+*.png
+*.jpg
+*.jpeg
+*.tsv
