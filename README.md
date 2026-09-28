@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/VXDCRP3Lr_oAAAAC/chika-detective.gif" alt="Detective Chika, the tantei mascot" width="360">
-  <br>
-  <sub>Mascot: Detective Chika Fujiwara (<i>Kaguya-sama: Love is War</i>), via <a href="https://tenor.com/view/chika-detective-kaguya-sama-love-gif-23662119">Tenor</a>. Character © Aka Akasaka / Shueisha / A-1 Pictures.</sub>
-</p>
+<img src="https://media1.tenor.com/m/VXDCRP3Lr_oAAAAC/chika-detective.gif" alt="Detective Chika, the tantei mascot" width="360">
 
 # tantei 探偵
 
